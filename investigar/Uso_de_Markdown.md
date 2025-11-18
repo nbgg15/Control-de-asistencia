@@ -32,9 +32,9 @@ Listas
 
  Tablas
 
-  Producto   Precio
+  Producto  | Precio
   ---------- --------
-  Café       1.50
+  Café      | 1.50
 
 Enlace
 
@@ -42,7 +42,7 @@ Enlace
 
 Imagen
 
-![Ejemplo](ruta/imagen.png)
+![Ejemplo]
 
 Código
 
